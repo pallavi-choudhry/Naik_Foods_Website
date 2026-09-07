@@ -14,6 +14,5 @@ recommends actionable improvements with priorities.
 ## Tech Stack
 - React.js
 - JavaScript (ES6+)
-- HTML5
-- CSS3
+- Tailwind CSS
 - Responsive Web Design
